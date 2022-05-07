@@ -18,14 +18,6 @@
 
 }
 
-.titulo h1{
-    font-size: 16px; 
-    font-weight: 700, bold;
-    line-height: 19.36px;
-    padding: 10px;
-}
-
-
 .titulo2{
     background-color: #94CA81;
     border-radius: 5px;
@@ -37,7 +29,7 @@
     justify-content: center;
 }
 
-.titulo2 h1{
+.textoTitulo {
     font-size: 16px; 
     font-weight: 700, bold;
     line-height: 19.36px;
@@ -53,6 +45,20 @@
     margin-bottom: 100px;
 
 }
+
+.lista li a {
+    text-decoration: none;
+}
+
+.lista .textoLista2{
+    color:#94CA81;
+} 
+
+.lista .textoLista1{
+    color:#002299;
+} 
+
+
 
 footer{
     background-color: black;
