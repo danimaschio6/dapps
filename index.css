@@ -60,6 +60,57 @@
 
 
 
+.imagenes1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.canva{
+    margin-top: 50px;
+}
+
+
+.imagenes2{
+    margin-top: 90px;
+}
+
+
+
+.presentacion{
+    margin-top: 150px;
+    margin-bottom: 130px;
+}
+
+.presentacion h5{
+    color:#206F05;
+    font-size: 22px;
+    font-weight: 700;
+  
+}
+
+.leads{
+    margin-bottom: 200px;
+    font-family: inherit;
+    
+}
+
+.leads h5{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.leads p{
+    font-weight: 400;
+    font-size: 20px;
+    color: #002299;
+}
+
+.leads i a {
+    font-weight: 400;
+    font-size: 20px;
+    color: #002299;
+}
+
 footer{
     background-color: black;
     height: 50px;
