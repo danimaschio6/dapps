@@ -66,9 +66,11 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    width: 100%;
 }
 .canva{
     margin-top: 50px;
+    width: 100%;
 }
 
 
@@ -88,6 +90,10 @@
     font-size: 22px;
     font-weight: 700;
   
+}
+
+.presentacion img{
+    width: 100%;
 }
 
 .leads{
@@ -112,6 +118,10 @@
     font-size: 20px;
     color: #002299;
     font-family: Roboto;
+}
+
+.leads img{
+    width: 100%;
 }
 
 footer{
